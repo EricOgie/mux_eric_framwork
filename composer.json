@@ -1,0 +1,15 @@
+{
+    "name": "ericogie/mux_eric_framwork",
+    "authors": [
+        {
+            "name": "Ericogia",
+            "email": "ogia.aghahowa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+            }
+        },
+    "require": {}
+}
